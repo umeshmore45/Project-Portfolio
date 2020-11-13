@@ -280,7 +280,7 @@ body {
     transition: width 15s;
     transition: height 15s;
     height: 60vh;
-    width: 98vw;
+    width: 100vw;
   }
 
   .display1 a {
@@ -290,7 +290,7 @@ body {
 
   .display1:hover {
     height: 60vh;
-    width: 98vw;
+    width: 100vw;
   }
 
   .display1 img:hover {
@@ -311,7 +311,7 @@ body {
     transition: width 15s;
     transition: height 15s;
     height: 60vh;
-    width: 98vw;
+    width: 100vw;
     background-color: #f9753266;
   }
 
@@ -330,7 +330,7 @@ body {
 
   .display2:hover {
     height: 60vh;
-    width: 98vw;
+    width: 100vw;
   }
 
   .display2 img:hover {
@@ -368,7 +368,7 @@ body {
     transition: width 15s;
     transition: height 15s;
     height: 60vh;
-    width: 98vw;
+    width: 100vw;
   }
 
   .display3 a {
@@ -378,7 +378,7 @@ body {
 
   .display3:hover {
     height: 60vh;
-    width: 98vw;
+    width: 100vw;
   }
 
   .display3 img:hover {
@@ -397,7 +397,7 @@ body {
     transition: width 15s;
     transition: height 15s;
     height: 60vh;
-    width: 98vw;
+    width: 100vw;
     background-color: #f9753266;
   }
 
@@ -416,7 +416,7 @@ body {
 
   .display4:hover {
     height: 60vh;
-    width: 98vw;
+    width: 100vw;
   }
 
   .display4 img:hover {
